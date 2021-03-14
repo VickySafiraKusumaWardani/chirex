@@ -5,5 +5,5 @@ Kelas: 3A
 Matkul: Sistem Pakar
 Dosen : M Nurkamal Fauzan, S.T., M.T.
 
-#Fork from
+#  Fork from
 https://github.com/januriawan/chirex
